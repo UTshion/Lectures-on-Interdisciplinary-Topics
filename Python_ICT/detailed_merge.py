@@ -22,9 +22,13 @@ def read_lines(file_a, file_b):
             if line_a:
                 sys.stdout.write(line_a)
                 line_a = fa.readline()
+                if not line_a and line_b:
+                    sys.stdout.write("\n")
             if line_b:
                 sys.stdout.write(line_b)
                 line_b = fb.readline()
+                if not line_b and line_a:
+                    sys.stdout.write("\n")
             sys.stdout.write("\n")
 
 
