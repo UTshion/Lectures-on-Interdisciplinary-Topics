@@ -1,0 +1,153 @@
+多様化する雇用管理区分と処遇差に関する法規制:
+  type: article
+  title: 多様化する雇用管理区分と処遇差に関する法規制
+  author: 阿部未央
+  date: 2023
+  page-range: 57–67
+  parent:
+    type: periodical
+    title: 日本労働研究雑誌
+    publisher: 労働政策研究・研修機構
+    issue: 12
+    volume: 65
+台湾における労働基本権の保障と労働組合の現状:
+  type: article
+  title: 台湾における労働基本権の保障と労働組合の現状
+  author: 松井有美
+  date: 2024
+  page-range: 1–17
+  parent:
+    type: periodical
+    title: 沖縄法政研究
+    publisher: 沖縄国際大学沖縄法政研究所
+    issue: 26
+日本労働法における新動向:
+  type: article
+  title: '日本労働法における新動向: 非典型争議行為'
+  author: 榊原嘉明
+  date: 2023
+  page-range: 63–75
+  parent:
+    type: periodical
+    title: 名経法学
+    publisher: 名古屋経済大学法学会
+    issue: 47
+サーベイ:
+  type: article
+  title: 有期労働契約の経済分析：サーベイ
+  author:
+  - 佐野, 晋平
+  - 宮, 昊君
+  - 勇上, 和史
+  date: 2023
+  page-range: 83–99
+  url: https://cir.nii.ac.jp/crid/1390580605027384960
+  serial-number:
+    doi: 10.24546/0100478266
+    issn: '03873129'
+  parent:
+    type: periodical
+    title: 国民経済雑誌
+    publisher: 神戸大学経済経営学会
+    issue: 1
+    volume: 227
+荒木尚志2023労働時間規制の展開と課題:
+  type: article
+  title: 労働時間規制の展開と課題
+  author: 荒木尚志
+  date: 2023
+  parent:
+    type: periodical
+    title: 日本労働研究雑誌
+労働者協同組合法と協同労働:
+  type: article
+  title: 第 1 報告 労働者協同組合法と協同労働
+  author: 大高研道
+  date: 2023
+  page-range: 5
+  parent:
+    type: periodical
+    title: 協同組合研究
+    publisher: 日本協同組合学会
+    issue: 1
+    volume: 43
+労働法の諸問題:
+  type: article
+  title: 労働法の諸問題――公正と同一労働同一賃金, 技能実習制度, ブラック職場とワークルール教育等――
+  author: 中内哲
+  date: 2023
+  page-range: 32–36
+  parent:
+    type: proceedings
+    title: 九州法学会会報 九州法学会会報 2023
+    organization: 九州法学会
+詳解労働法:
+  type: book
+  title: 詳解労働法 = Labor and employment law
+  author: 水町, 勇一郎
+  date: 2023
+  publisher: 東京大学出版会
+  edition: 第3版
+  url: https://cir.nii.ac.jp/crid/1130297726009333025
+荒木労働法:
+  type: book
+  title: 労働法 第5版
+  author: 荒木, 尚志
+  date: 2022
+  publisher: 有斐閣
+  edition: 第5版
+裁量労働制実態調査:
+  type: misc
+  title: 裁量労働制実態調査の概要
+  author: 厚生労働省
+  date: 2021-06-25
+  url: https://www.mhlw.go.jp/content/11402000/000797825.pdf
+これからの労働時間制度に関する検討会報告書:
+  type: misc
+  title: （資料）No. 3-3 これからの労働時間制度に関する検討会報告書 参考資料①
+  author: 労働政策審議会労働条件分科会
+  date: 2022-07-27
+労使関係総合調査:
+  type: misc
+  title: 労使関係総合調査（実態調査）
+  author: 厚生労働省
+  date: 2024
+  url: https://www.mhlw.go.jp/toukei/list/list15-19.html
+アルゴリズムイントロダクション:
+  type: book
+  title: '世界標準 MIT 教科書 アルゴリズムイントロダクション 第 1 巻: 基礎・ソートと順序統計量・データ構造・数学的基礎'
+  author:
+  - Cormen, Thomas H
+  - Leiserson, Charles E
+  - Rivest, Ronald L
+  - Stein, Clifford
+  date: 2023
+  publisher: 近代科学社
+  volume: 1
+  page-range: 133–140
+Python機械学習プログラミング:
+  type: book
+  title: 'Python機械学習プログラミング : 達人データサイエンティストによる理論と実践'
+  author:
+  - Raschka, Sebastian
+  - Mirjalili, Vahid
+  - クイープ
+  - 福島, 真太朗
+  date: 2020
+  publisher: インプレス
+  edition: 第3版
+  parent:
+    type: book
+    title: Impress top gear
+経済時系列と季節調整法:
+  type: book
+  title: 経済時系列と季節調整法
+  author: 高岡, 慎
+  date: 2015
+  publisher: 朝倉書店
+  issue: ''
+  page-range: 22–32
+  parent:
+    type: book
+    title: 統計解析スタンダード / 国友直人, 竹村彰通, 岩崎学編
+
